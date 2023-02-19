@@ -1,1 +1,1 @@
-# practicals_of_clg
+practicals_of_java_from_clg
